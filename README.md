@@ -1,6 +1,6 @@
 👋 Olá
 
-Me chamo Valmir tenho 24 anos comecei  a pouco tempo nessa carreira de programador front-end, me identifiquei bastante nessa área, mas ainda estou aprendendo. Sou bastante curioso, gosto de aprender coisas novas, o importante é nunca esta parado sempre aprendendo algo, me dedico bastante para aprender e tenho uma aprendizagem muito rápida, sou focado no que faço e também gosto de trabalhar em equipe e sempre ajudar o próximo quando posso.
+Me chamo Valmir Nunes tenho 24 anos comecei a pouco tempo nessa carreira de programador front-end, me identifiquei bastante nessa área, mas ainda estou aprendendo. Sou bastante curioso, gosto de aprender coisas novas sempre aprendendo o importante é nunca esta parado, me dedico bastante para aprender e tenho uma aprendizagem muito rápida, sou focado no que faço e também gosto de trabalhar em equipe e sempre ajudar o próximo quando posso.
 
 <b>Atualmente estou aprendendo:</b> 
 
